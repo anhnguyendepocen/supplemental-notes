@@ -1,6 +1,5 @@
 ---
-title: "Simple Linear Regression"
-subitlte: "Deriving the Least-Squares Estimates"
+title: "Deriving the Least-Squares Estimates for Simple Linear Regression"
 author: ""
 date: ""
 header_include: 
