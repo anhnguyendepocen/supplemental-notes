@@ -1,6 +1,6 @@
 ---
 title: "Deriving the Least-Squares Estimates for Simple Linear Regression"
-author: ""
+author: "Dr. Maria Tackett"
 date: ""
 header_include: 
   -\usepackage{amsmath}
